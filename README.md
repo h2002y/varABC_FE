@@ -134,11 +134,11 @@
 
 ### 시스템 구성도
 
-![System_A508](/uploads/f43c000dab0f73ed78652c541255ce71/System_A508.png)
+![System_A508](https://github.com/h2002y/varABC_FE/assets/32544102/89485e7f-8875-4ff5-81a5-4c06fed1d7fe)
 
 ### ERD
 
-![ERD_A508](/uploads/84d37e7f3322ccdc1c99a7c0edcd89cb/ERD_A508.png)
+![ERD_A508](https://github.com/h2002y/varABC_FE/assets/32544102/361eeb08-3892-4e33-b627-c6adc2ea866f)
 
 ### 기능 상세 설명
 
