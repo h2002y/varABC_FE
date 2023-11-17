@@ -1,0 +1,14 @@
+/* Hide the cursor and any interaction-related elements */
+#mycode .ace_editor {
+  cursor: default !important;
+  /* pointer-events: none; */
+  user-select: none;
+}
+
+#mycode .ace_cursor {
+  display: none !important;
+}
+
+#mycode .ace_editor .ace_marker-layer .ace_bracket {
+  display: none;
+}
